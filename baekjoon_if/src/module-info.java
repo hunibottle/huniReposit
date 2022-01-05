@@ -1,0 +1,2 @@
+module baekjoon_if {
+}
